@@ -1,1 +1,2 @@
-# Advanced-OOP-Assignment-
+Ivy Wambui 
+SCT121-0940/2022
